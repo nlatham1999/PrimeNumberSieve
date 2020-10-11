@@ -31,7 +31,8 @@ analysis:
 
 This seems to be the same time complexity of The Sieve of Eratosthenes, but more slightly more efficient. I have also found that it takes up less memory.
 
-below is a graph of the two sieves. The y axis is the time in seconds and the x axis is the size of n in bits
+below is a graph of the two sieves. The y axis is the time in seconds and the x axis is the size of n in bits\
+each point is the average time over 10 rounds 
 ![time test](https://github.com/nlatham1999/PrimeNumberSieve/blob/main/Figure_1.png)
 machine specs for graph: 8GB of Ram, 1.60GHz
 
