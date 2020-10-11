@@ -27,9 +27,9 @@ algorithm:
       * set the value of the boolean array at the position of the product of the two potential primes to be false
       
 
-analysis:\
+analysis:
 
-This seems to be the same time complexity of The Sieve of Eratosthenes, but more slightly more efficient. I have also found that it takes up less memory.\
+This seems to be the same time complexity of The Sieve of Eratosthenes, but more slightly more efficient. I have also found that it takes up less memory.
 
 
 
